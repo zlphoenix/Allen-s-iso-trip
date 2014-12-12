@@ -31,7 +31,7 @@
 			<string>ReleaseNote.md</string>
 		</array>
 		<array>
-			<string>Summary.md</string>
+			<string>SUMMARY.md</string>
 		</array>
 		<array>
 			<string>Appendix.md</string>
@@ -44,6 +44,9 @@
 		</array>
 		<array>
 			<string>1.NewOne.md</string>
+		</array>
+		<array>
+			<string>test.md</string>
 		</array>
 	</array>
 </dict>
