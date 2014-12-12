@@ -25,15 +25,6 @@
 			<string>1.4GetHelp.md</string>
 		</array>
 		<array>
-			<string>1. NewOne.md</string>
-		</array>
-		<array>
-			<string>2. ItCanBeUseLikeThis.md</string>
-		</array>
-		<array>
-			<string>3. BrillientApps.md</string>
-		</array>
-		<array>
 			<string>README.md</string>
 		</array>
 		<array>
@@ -44,6 +35,15 @@
 		</array>
 		<array>
 			<string>Appendix.md</string>
+		</array>
+		<array>
+			<string>3.BrillientApps.md</string>
+		</array>
+		<array>
+			<string>2.ItCanBeUseLikeThis.md</string>
+		</array>
+		<array>
+			<string>1.NewOne.md</string>
 		</array>
 	</array>
 </dict>
