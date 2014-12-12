@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>Chapter1</string>
+		<string>Chapter2</string>
+		<string>Chapter3</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>1.1NotAlone.md</string>
+		</array>
+		<array>
+			<string>1.2AppleIDCount.md</string>
+		</array>
+		<array>
+			<string>1.3AboutSecurity.md</string>
+		</array>
+		<array>
+			<string>1.4GetHelp.md</string>
+		</array>
+		<array>
+			<string>1. NewOne.md</string>
+		</array>
+		<array>
+			<string>2. ItCanBeUseLikeThis.md</string>
+		</array>
+		<array>
+			<string>3. BrillientApps.md</string>
+		</array>
+		<array>
+			<string>README.md</string>
+		</array>
+		<array>
+			<string>ReleaseNote.md</string>
+		</array>
+		<array>
+			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>Appendix.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
