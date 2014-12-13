@@ -7,6 +7,7 @@
 		<string>Chapter1</string>
 		<string>Chapter2</string>
 		<string>Chapter3</string>
+		<string>README</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
